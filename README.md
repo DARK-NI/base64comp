@@ -11,5 +11,6 @@
 * cd base64comp
 * chmod 777 *
 * bash setup.sh
+* For run this tool just type nibase64
 
 # Tnx All❣️❣️
