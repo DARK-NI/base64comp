@@ -1,0 +1,7 @@
+clear
+cd
+cd base64comp
+lolcat logo.txt
+read -p $' \n\n\e[0m\e[1;92m Enter Your File PATH   : \e[0m\e[1;96m\en' path
+python2 py2comp_ni.py $path
+xdg-open https://facebook.com/groups/spamming.termux.learning.point/
