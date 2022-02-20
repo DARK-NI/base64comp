@@ -1,6 +1,6 @@
 # Assalamaualaikum
 # base64comp
-* This Tool Is For Compiling Python2 Script Marshal Zlib Base64
+* This Tool Is For Compiling Python,Python2,Python3 Script By Marshal Zlib Base64
 # Installation command:
 * pkg update
 * pkg upgrade
